@@ -1,76 +1,82 @@
-invertical
-==========
+# InvertiCal New ???
 
-******************************
-*           COS'E'           *
-******************************
+**InvertiCal New** è l'evoluzione definitiva del tool di analisi statistica per leghe di Fantacalcio gestite con **FantaCalcio Manager (FCM)**.
 
-InvertiCal è un plugin che vi permette di sapere quanti punti avreste fatto se la sorte vi avesse assegnato un calendario di un'altra squadra. Quante volte avete invidiato qualcuno perchè gli capita sempre l'avversario che fa meno gol? Ecco, ora potrete avere i dati reali a vostra disposizione per aumentare il vostro rammarico...
+Nato come fork del progetto originale [Invertical di Arghami](https://github.com/arghami/invertical), questo software è stato completamente riscritto nel motore di calcolo, nell'interfaccia e nella generazione dei report per offrire una visione "meritocratica" e statistica profonda della tua lega.
 
+![Java](https://img.shields.io/badge/Java-Swing-orange.svg)
+![Version](https://img.shields.io/badge/release-2.0_Revo-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+---
 
-******************************
-*        INSTALLAZIONE       *
-******************************
+## ?? Cosa c'è di Nuovo (Rispetto alla versione classica)
 
-Il programma è scritto in java, per cui requisito indispensabile per farlo funzionare è la presenza di una java virtual machine, che potete scaricare dal seguente indirizzo:
-http://www.java.com/it/download/manual.jsp
-oppure sul sito della sun.
-Può essere che sul vostro pc sia già installata una versione di java. In tal caso, non dovrete scaricare nulla.
+Mentre la versione classica si limitava a incrociare i calendari, **InvertiCal New** introduce concetti statistici avanzati:
 
-Per utilizzare il programma è sufficiente scompattare il pacchetto in un punto qualsiasi del vostro pc. Se lo volete utilizzare come plugin per FCM, dovete mettere i file "invertical.bat" e "invertiCal.jar" nella cartella plugin di FCM e seguire le istruzioni della sezione "Utilizzo".
+* **? Elaborazione Batch Multi-Competizione:** Non serve più caricare un girone alla volta. Il software può elaborare in sequenza Serie A, Serie B, Coppe, ecc., generando un report unico e navigabile.
+* **?? Performance Index (Classifica Avulsa Reale):** Introduce un indice che calcola la somma delle medie punti ottenute ogni giornata contro *tutti* gli avversari (non solo una media finale).
+* **?? Nuovo Output "Revo Style":** Report HTML moderni, flat e responsivi, con CSS esterno personalizzabile, pensati per integrarsi con i moderni siti di leghe (es. FMSRevo).
+* **?? Nuove Metriche di Fortuna:** Calcolo differenziato tra "Fortuna nel calendario" (scontri diretti) e "Fortuna prestazionale" (punti fatti vs punti meritati).
 
+---
 
+## ?? La Logica di Calcolo
 
-******************************
-*          UTILIZZO          *
-******************************
+Il cuore di InvertiCal New risponde a tre domande fondamentali:
 
-Il programma funziona solo su leghe gestite con Fantacalcio Manager. Può funzionare in due modalità:
-- Stand Alone
-- Plugin per il sito di FCM.
+### 1. "Come sarebbe finita con il calendario di un altro?" (Matrice Incroci)
+Questa tabella simula il campionato della tua squadra se avesse affrontato la sequenza di avversari di un'altra squadra.
+* **Diagonale (Giallo/Bianco):** È il tuo punteggio reale in campionato.
+* **Celle Colorate:** Indicano la differenza tra la simulazione e la realtà.
+    * ?? **VERDE (Meglio):** Con quel calendario avresti fatto **più punti** del tuo reale. *(Significato: Il tuo calendario reale è stato difficile/sfortunato).*
+    * ?? **ROSSO (Peggio):** Con quel calendario avresti fatto **meno punti** del tuo reale. *(Significato: Il tuo calendario reale ti ha favorito).*
 
+### 2. "Chi è la squadra più costante?" (Performance Index)
+Oltre alla classifica a scontri diretti, il software calcola la **Classifica Avulsa**.
+Ogni giornata, la tua squadra gioca virtualmente contro **tutte le altre 9 squadre**.
+* **Indice Performance:** Viene calcolato sommando, giornata per giornata, la media punti ottenuta contro l'intero campionato.
+    * *Esempio:* Se fai 72 punti e batti 6 squadre, pareggi con 1 e perdi con 2, il tuo indice di giornata è `(6*3 + 1*1 + 0) / 9 = 2.11`.
+    * Questo valore premia la costanza di rendimento indipendentemente dall'avversario di turno.
 
-   Modalità Stand Alone
-Per utilizzare questa modalità è sufficiente fare doppio click sul file "invertiCal.jar" (in questo caso il .bat non serve a niente). Il programma vi chiederà di specificare il file .fcm della vostra lega da cui prelevare i dati. Dopodichè vi verrà chiesto di specificare la competizione su cui effettuare il calcolo. L'output verrà generato nella stessa cartella in cui avete lanciato il programma.
-NB: se il .jar è associato a un'altra applicazione (ad esempio Nokia PC Suite) dovrete eseguirlo cliccando col destro e poi selezionando "apri con... -> java platform" (o qualcosa del genere). Se non ci riuscite nemmeno così, aprite una finestra di DOS, portatevi nella cartella dove c'è il jar e digitate:
-java -jar invertiCal.jar
+### 3. Statistiche Avanzate & "Fun Facts"
+Alla fine di ogni report, il software calcola 4 metriche speciali:
 
+1.  **Squadra più Fortunata/Sfortunata:** Basata sul differenziale tra i Punti Reali e la media dei punti che la squadra avrebbe ottenuto con tutti gli altri 9 calendari possibili.
+2.  **Calendario più Facile/Difficile:** Analizza quale "percorso" (sequenza di avversari) ha permesso alla maggioranza delle squadre di ottenere il punteggio più alto (o più basso).
+3.  **"La fortuna è cieca" (Sopravvalutata):** La squadra con il divario positivo più ampio tra i punti in classifica reale e il suo Performance Index. *(Ha molti punti, ma prestazioni medie).*
+4.  **"La sfiga ci vede benissimo" (Sottovalutata):** La squadra con il divario negativo più ampio. *(Ha prestazioni top, ma pochi punti in classifica).*
 
-   Modalità Plugin
-Mettete i file "invertical.bat" e "invertiCal.jar" nella cartella plugin di FCM; aprite il file invertical.bat col blocco note e controllate che il percorso
-cd c:\programmi\FCM\plugin
-corrisponda effettivamente alla cartella in cui avete installato FCM. In caso contrario, correggetela manualmente.
-Inserite nel .ini della vostra skin il riferimento al file invertical.bat: potete metterlo sia tra i "prima" che tra i "dopo", l'esecuzione non cambia.
-Il plugin verrà quindi lanciato all'atto della generazione del sito, e vi verrà richiesto di selezionare la competizione e quindi il girone nell'ambito della competizione. L'output viene salvato all'interno del sito generato.
+---
 
+## ??? Installazione e Utilizzo
 
+### Requisiti
+* PC con sistema operativo Windows.
+* [Java Runtime Environment (JRE)](https://www.java.com/it/download/) installato.
 
-******************************
-*         LIMITAZIONI        *
-******************************
+### Istruzioni
+1.  Scarica l'ultima release (`InvertiCal_Revo.jar`).
+2.  Avvia il programma (consigliato usare il file `.bat` se fornito, o doppio click sul `.jar`).
+3.  **Carica:** Seleziona il file `.fcm` della tua lega.
+4.  **Seleziona:** Scegli la Competizione e il Girone dal menu a tendina.
+5.  **Coda:** Clicca **"Aggiungi alla Coda"** (puoi aggiungere più gironi, es. Serie A e Serie B).
+6.  **Esegui:** Clicca **"AVVIA ELABORAZIONE"**.
 
-Per la sua natura, il programma può funzionare solo su competizioni con un "reale" calendario e con UN NUMERO PARI DI SQUADRE. Per intenderci, se provate a invertire il calendario di una coppa o di una competizione a gironi, non ho idea di cosa vi possa saltare fuori.
+### Output
+Il software genererà:
+* Un file `riepilogo_competizioni.html` contenente tutte le analisi.
+* Un file `incroci.css` per lo stile (modificabile a piacere).
+* I dettagli delle singole giornate nella cartella `incrodet`.
 
+---
 
+## ?? Crediti
 
-******************************
-*           OUTPUT          *
-******************************
+* **Autore Originale:** [Arghami](https://github.com/arghami/invertical) - Il creatore dell'idea originale e del primo motore di calcolo Invertical.
+* **Sviluppo "New":** Riscrittura completa della logica, implementazione batch, nuove statistiche e refactoring GUI per adattamento agli standard moderni.
+* **Librerie:** Jackcess / UCanAccess (per la lettura dei DB FCM).
 
-L'output generato è composto da:
+---
 
-- cartella "incroDet"
-  +
-  |____ ricalcolo di ogni singola giornata, con tutti i possibili incroci, in formato html
-  |____ ricalcolo di ogni singola giornata, con tutti i possibili incroci, in formato txt
-  |____ somma dei punti ottenuti lungo tutte le giornate, con tutti i possibili incroci, in formato html
-  |____ somma dei punti ottenuti lungo tutte le giornate, con tutti i possibili incroci, in formato txt
-
-- cartella "js"
-  +
-  |____ somma dei punti ottenuti lungo tutte le giornate, con tutti i possibili incroci, in formato javascript
-
-- log.txt: contiene uno storico dell'esecuzione, utile (per me) per capire se ci sono stati degli errori.
-
-Gli output generati dal plugin sono estremamente grezzi. Per avere una grafica accattivante, scaricate anche i file di grafica sviluppati da Maelstrom (cercate sul forum per sapere l'indirizzo esatto).
+*Powered by InvertiCal New* ???
