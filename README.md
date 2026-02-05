@@ -1,8 +1,8 @@
-# InvertiCal New ???
+# InvertiCal New üìä‚öΩ
 
-**InvertiCal New** Ë l'evoluzione definitiva del tool di analisi statistica per leghe di Fantacalcio gestite con **FantaCalcio Manager (FCM)**.
+**InvertiCal New** √® l'evoluzione definitiva del tool di analisi statistica per leghe di Fantacalcio gestite con **FantaCalcio Manager (FCM)**.
 
-Nato come fork del progetto originale [Invertical di Arghami](https://github.com/arghami/invertical), questo software Ë stato completamente riscritto nel motore di calcolo, nell'interfaccia e nella generazione dei report per offrire una visione "meritocratica" e statistica profonda della tua lega.
+Nato come fork del progetto originale [Invertical di Arghami](https://github.com/arghami/invertical), questo software √® stato completamente riscritto nel motore di calcolo, nell'interfaccia e nella generazione dei report per offrire una visione "meritocratica" e statistica profonda della tua lega.
 
 ![Java](https://img.shields.io/badge/Java-Swing-orange.svg)
 ![Version](https://img.shields.io/badge/release-2.0_Revo-blue.svg)
@@ -10,46 +10,46 @@ Nato come fork del progetto originale [Invertical di Arghami](https://github.com
 
 ---
 
-## ?? Cosa c'Ë di Nuovo (Rispetto alla versione classica)
+## üåü Cosa c'√® di Nuovo (Rispetto alla versione classica)
 
 Mentre la versione classica si limitava a incrociare i calendari, **InvertiCal New** introduce concetti statistici avanzati:
 
-* **? Elaborazione Batch Multi-Competizione:** Non serve pi˘ caricare un girone alla volta. Il software puÚ elaborare in sequenza Serie A, Serie B, Coppe, ecc., generando un report unico e navigabile.
-* **?? Performance Index (Classifica Avulsa Reale):** Introduce un indice che calcola la somma delle medie punti ottenute ogni giornata contro *tutti* gli avversari (non solo una media finale).
-* **?? Nuovo Output "Revo Style":** Report HTML moderni, flat e responsivi, con CSS esterno personalizzabile, pensati per integrarsi con i moderni siti di leghe (es. FMSRevo).
-* **?? Nuove Metriche di Fortuna:** Calcolo differenziato tra "Fortuna nel calendario" (scontri diretti) e "Fortuna prestazionale" (punti fatti vs punti meritati).
+* **‚ö° Elaborazione Batch Multi-Competizione:** Non serve pi√π caricare un girone alla volta. Il software pu√≤ elaborare in sequenza Serie A, Serie B, Coppe, ecc., generando un report unico e navigabile.
+* **üìà Performance Index (Classifica Avulsa Reale):** Introduce un indice che calcola la somma delle medie punti ottenute ogni giornata contro *tutti* gli avversari (non solo una media finale).
+* **üé® Nuovo Output "Revo Style":** Report HTML moderni, flat e responsivi, con CSS esterno personalizzabile, pensati per integrarsi con i moderni siti di leghe (es. FMSRevo).
+* **üßÆ Nuove Metriche di Fortuna:** Calcolo differenziato tra "Fortuna nel calendario" (scontri diretti) e "Fortuna prestazionale" (punti fatti vs punti meritati).
 
 ---
 
-## ?? La Logica di Calcolo
+## üß† La Logica di Calcolo
 
 Il cuore di InvertiCal New risponde a tre domande fondamentali:
 
 ### 1. "Come sarebbe finita con il calendario di un altro?" (Matrice Incroci)
 Questa tabella simula il campionato della tua squadra se avesse affrontato la sequenza di avversari di un'altra squadra.
-* **Diagonale (Giallo/Bianco):** » il tuo punteggio reale in campionato.
-* **Celle Colorate:** Indicano la differenza tra la simulazione e la realt‡.
-    * ?? **VERDE (Meglio):** Con quel calendario avresti fatto **pi˘ punti** del tuo reale. *(Significato: Il tuo calendario reale Ë stato difficile/sfortunato).*
-    * ?? **ROSSO (Peggio):** Con quel calendario avresti fatto **meno punti** del tuo reale. *(Significato: Il tuo calendario reale ti ha favorito).*
+* **Diagonale (Giallo/Bianco):** √à il tuo punteggio reale in campionato.
+* **Celle Colorate:** Indicano la differenza tra la simulazione e la realt√†.
+    * üü¢ **VERDE (Meglio):** Con quel calendario avresti fatto **pi√π punti** del tuo reale. *(Significato: Il tuo calendario reale √® stato difficile/sfortunato).*
+    * üî¥ **ROSSO (Peggio):** Con quel calendario avresti fatto **meno punti** del tuo reale. *(Significato: Il tuo calendario reale ti ha favorito).*
 
-### 2. "Chi Ë la squadra pi˘ costante?" (Performance Index)
+### 2. "Chi √® la squadra pi√π costante?" (Performance Index)
 Oltre alla classifica a scontri diretti, il software calcola la **Classifica Avulsa**.
 Ogni giornata, la tua squadra gioca virtualmente contro **tutte le altre 9 squadre**.
 * **Indice Performance:** Viene calcolato sommando, giornata per giornata, la media punti ottenuta contro l'intero campionato.
-    * *Esempio:* Se fai 72 punti e batti 6 squadre, pareggi con 1 e perdi con 2, il tuo indice di giornata Ë `(6*3 + 1*1 + 0) / 9 = 2.11`.
+    * *Esempio:* Se fai 72 punti e batti 6 squadre, pareggi con 1 e perdi con 2, il tuo indice di giornata √® `(6*3 + 1*1 + 0) / 9 = 2.11`.
     * Questo valore premia la costanza di rendimento indipendentemente dall'avversario di turno.
 
 ### 3. Statistiche Avanzate & "Fun Facts"
 Alla fine di ogni report, il software calcola 4 metriche speciali:
 
-1.  **Squadra pi˘ Fortunata/Sfortunata:** Basata sul differenziale tra i Punti Reali e la media dei punti che la squadra avrebbe ottenuto con tutti gli altri 9 calendari possibili.
-2.  **Calendario pi˘ Facile/Difficile:** Analizza quale "percorso" (sequenza di avversari) ha permesso alla maggioranza delle squadre di ottenere il punteggio pi˘ alto (o pi˘ basso).
-3.  **"La fortuna Ë cieca" (Sopravvalutata):** La squadra con il divario positivo pi˘ ampio tra i punti in classifica reale e il suo Performance Index. *(Ha molti punti, ma prestazioni medie).*
-4.  **"La sfiga ci vede benissimo" (Sottovalutata):** La squadra con il divario negativo pi˘ ampio. *(Ha prestazioni top, ma pochi punti in classifica).*
+1.  **Squadra pi√π Fortunata/Sfortunata:** Basata sul differenziale tra i Punti Reali e la media dei punti che la squadra avrebbe ottenuto con tutti gli altri 9 calendari possibili.
+2.  **Calendario pi√π Facile/Difficile:** Analizza quale "percorso" (sequenza di avversari) ha permesso alla maggioranza delle squadre di ottenere il punteggio pi√π alto (o pi√π basso).
+3.  **"La fortuna √® cieca" (Sopravvalutata):** La squadra con il divario positivo pi√π ampio tra i punti in classifica reale e il suo Performance Index. *(Ha molti punti, ma prestazioni medie).*
+4.  **"La sfiga ci vede benissimo" (Sottovalutata):** La squadra con il divario negativo pi√π ampio. *(Ha prestazioni top, ma pochi punti in classifica).*
 
 ---
 
-## ??? Installazione e Utilizzo
+## üõ†Ô∏è Installazione e Utilizzo
 
 ### Requisiti
 * PC con sistema operativo Windows.
@@ -60,18 +60,18 @@ Alla fine di ogni report, il software calcola 4 metriche speciali:
 2.  Avvia il programma (consigliato usare il file `.bat` se fornito, o doppio click sul `.jar`).
 3.  **Carica:** Seleziona il file `.fcm` della tua lega.
 4.  **Seleziona:** Scegli la Competizione e il Girone dal menu a tendina.
-5.  **Coda:** Clicca **"Aggiungi alla Coda"** (puoi aggiungere pi˘ gironi, es. Serie A e Serie B).
+5.  **Coda:** Clicca **"Aggiungi alla Coda"** (puoi aggiungere pi√π gironi, es. Serie A e Serie B).
 6.  **Esegui:** Clicca **"AVVIA ELABORAZIONE"**.
 
 ### Output
-Il software generer‡:
+Il software generer√†:
 * Un file `riepilogo_competizioni.html` contenente tutte le analisi.
 * Un file `incroci.css` per lo stile (modificabile a piacere).
 * I dettagli delle singole giornate nella cartella `incrodet`.
 
 ---
 
-## ?? Crediti
+## üìú Crediti
 
 * **Autore Originale:** [Arghami](https://github.com/arghami/invertical) - Il creatore dell'idea originale e del primo motore di calcolo Invertical.
 * **Sviluppo "New":** Riscrittura completa della logica, implementazione batch, nuove statistiche e refactoring GUI per adattamento agli standard moderni.
@@ -79,4 +79,4 @@ Il software generer‡:
 
 ---
 
-*Powered by InvertiCal New* ???
+*Powered by InvertiCal New* ‚öΩüìä
