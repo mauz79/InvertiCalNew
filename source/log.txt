@@ -1,0 +1,486 @@
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreGirone
+INFORMAZIONI: Estrazione squadre
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreGirone
+INFORMAZIONI: Squadre: {17=S.S. Necropotence, 83=FC Squirt Game, 79=Milfhunters, 10=F.C. Birra Real 2023, 7=ISDA i due porri, 52=Team Fly, 73=Real Sivori, 49=F.C. Pitbull, 71=Batlard Corporated Inc., 24=Paris San Gonzen}
+feb 06, 2026 12:23:29 AM dao.FcmDao getRegoleCompetizione
+INFORMAZIONI: Estrazione delle regole della competizione
+feb 06, 2026 12:23:29 AM dao.FcmDao getGiornate
+INFORMAZIONI: Estrazione lista giornate
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreIscritte
+INFORMAZIONI: Estrazione squadre iscritte
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceModificatoreDifesa
+INFORMAZIONI: Estrazione fasce modificatore difesa
+feb 06, 2026 12:23:29 AM dao.FcmDao getContributoNumeroDifensoriModificatoreDifesa
+INFORMAZIONI: Estrazione contributo numero difensori per modificatore difesa
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceModificatoreCentrocampo
+INFORMAZIONI: Estrazione fasce modifcatore centrocampo
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceConversioneGol
+INFORMAZIONI: Estrazione fasce gol
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreGirone
+INFORMAZIONI: Estrazione squadre
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreGirone
+INFORMAZIONI: Squadre: {39=Atletico Van Goof, 13=Tapparella P.D., 11=Scarsenal, 8=River Pino, 76=11 Outsiders A.S.D., 51=Dellimellow FC, 4=Cristos F.C., 2=FC Longobarda, 25=Real Moscardelli, 23=Red Bull F.C.}
+feb 06, 2026 12:23:29 AM dao.FcmDao getRegoleCompetizione
+INFORMAZIONI: Estrazione delle regole della competizione
+feb 06, 2026 12:23:29 AM dao.FcmDao getGiornate
+INFORMAZIONI: Estrazione lista giornate
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreIscritte
+INFORMAZIONI: Estrazione squadre iscritte
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceModificatoreDifesa
+INFORMAZIONI: Estrazione fasce modificatore difesa
+feb 06, 2026 12:23:29 AM dao.FcmDao getContributoNumeroDifensoriModificatoreDifesa
+INFORMAZIONI: Estrazione contributo numero difensori per modificatore difesa
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceModificatoreCentrocampo
+INFORMAZIONI: Estrazione fasce modifcatore centrocampo
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceConversioneGol
+INFORMAZIONI: Estrazione fasce gol
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreGirone
+INFORMAZIONI: Estrazione squadre
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreGirone
+INFORMAZIONI: Squadre: {86=Real Colly, 82=Bayern Money, 78=Nankatsu, 77=F.C. Boliverz, 98=FC Inserimento Da Dietro, 97=AS Intomatici, 74=Liverposs, 96=SegaTori FC, 26=Giannopulos F.C., 95=Interamnia Sooner}
+feb 06, 2026 12:23:29 AM dao.FcmDao getRegoleCompetizione
+INFORMAZIONI: Estrazione delle regole della competizione
+feb 06, 2026 12:23:29 AM dao.FcmDao getGiornate
+INFORMAZIONI: Estrazione lista giornate
+feb 06, 2026 12:23:29 AM dao.FcmDao getSquadreIscritte
+INFORMAZIONI: Estrazione squadre iscritte
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceModificatoreDifesa
+INFORMAZIONI: Estrazione fasce modificatore difesa
+feb 06, 2026 12:23:29 AM dao.FcmDao getContributoNumeroDifensoriModificatoreDifesa
+INFORMAZIONI: Estrazione contributo numero difensori per modificatore difesa
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceModificatoreCentrocampo
+INFORMAZIONI: Estrazione fasce modifcatore centrocampo
+feb 06, 2026 12:23:29 AM dao.FcmDao getFasceConversioneGol
+INFORMAZIONI: Estrazione fasce gol
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
+feb 06, 2026 12:23:29 AM dao.FcmDao getIncontri
+INFORMAZIONI: Estrazione incontri
+feb 06, 2026 12:23:29 AM dao.FcmDao getTabellini
+INFORMAZIONI: Estrazione tabellini
