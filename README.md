@@ -79,4 +79,4 @@ Il software genererà nella cartella di destinazione:
 
 ---
 
-*InvertiCalNew by Mauz 2025*
+*InvertiCalNew by Mauz 2026*
